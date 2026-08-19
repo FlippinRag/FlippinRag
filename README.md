@@ -1,3 +1,3 @@
-![FlippinRag's real contributions](https://the-real-contribution-graph.vercel.app/FlippinRag.svg?theme=blue&mode=light)
+![FlippinRag's real contributions](https://the-real-contribution-graph.vercel.app/FlippinRag.svg?theme=blue)
 
 [^^](https://the-real-contribution-graph.vercel.app/)
